@@ -1,0 +1,112 @@
+
+
+  .navbar-brand img {
+    height: 50px;
+  }
+  
+  .text-center.text-white.py-5 {
+    background: #343a40; 
+    color: white;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+  }
+  
+  .footer .container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 20px;
+  }
+  
+  .footer .container .row div {
+    margin-bottom: 20px;
+  }
+  
+  .footer .container .row div p,
+  .footer .container .row div ul {
+    margin: 0;
+  }
+  
+  .footer .container .row div ul li {
+    list-style: none;
+  }
+  
+  .footer .container .row div ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer .container .row div ul li a:hover {
+    text-decoration: underline;
+  }
+  .banner {
+    position: relative;
+    top: -210px;
+  }
+  
+ 
+  .navbar-brand img {
+    height: 50px;
+  }
+
+
+.img-fluidimg-hover-effect {
+  transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease;
+}
+
+.img-fluidimg-hover-effect:hover {
+  transform: scale(1.05);
+  opacity: 0.8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.nav-link:hover {
+  color: #fff;
+}
+
+.nav-link::after {
+  content: ''; 
+  background:green; 
+  position: absolute;
+  height: 3px;
+  width:0;
+  left:0;
+  bottom: -10px;
+ transition: 0.3s;
+}
+.i{
+  font-size: 10px;
+}
+.dropdown-menu {
+  background-color: #fff; 
+  border: none; 
+}
+.image-slide {
+  width: 86%; /* Ensure image takes up full width of its container */
+  padding: 0;  /* Remove padding */
+  margin: 0; /* Remove margin */
+  object-fit: cover; /* Ensure image covers container without distortion */
+}
+
+.slick-slide {
+  padding: 0; /* Remove any padding between the slides */
+  margin: 0; /* Remove margin */
+}
+
+.slick-list {
+  padding: 0; /* Remove padding around the track */
+  margin: 0; /* Remove margin around the track */
+}
+
+.slick-track {
+  display: flex;
+  align-items: center;
+}
+.cs{
+  width: 72%;
+}
+.cp{
+  width: 58%;
+}

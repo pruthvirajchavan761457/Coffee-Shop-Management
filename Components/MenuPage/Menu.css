@@ -1,0 +1,428 @@
+
+
+body{
+    --bs-body-bg:black;
+}
+
+.logo img{
+    width:100px;
+}
+.logo{
+    position: relative;
+    top:-176px;
+}
+/* .container-fluid{
+    background-image: url(./img/banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 411px;
+    background-position: center;
+     object-fit: cover;
+
+} */
+/* .navbar-nav {
+    position: relative;
+    top:-174px;
+} */
+/* li a:after{
+    content:"";
+    position: absolute;
+    background-color:;
+    height:2px;
+    width:0;
+    left:0;
+    bottom:-10px;
+} */
+li a:hover:after{
+    width:100%;
+    
+}
+.p{
+    text-align: left;
+    padding-left: 30px;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top:-229px;
+}
+.btn button{
+    color:white;
+    background: peru;
+    /* font-size: 20px; */
+    border:none;
+    padding: 10px 20px;
+}
+.navbar-expand-lg{
+    padding-top: 0px;
+}
+.Navbar{
+    padding-top: 0px;
+}
+.tr{
+    padding-top: 60px;
+}
+.col img{
+    width:323px;
+}
+.col h2{
+    font-size: 30px;
+    color:#fff;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+
+}
+/* .col h4{
+    font-size:30px;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+    color:;
+} */
+.imgg img{
+    width:270px;
+}
+.imgg{
+    text-align: center;
+}
+.paran p{
+    color:white;
+    font-size: 30px;
+    font-weight: 500;
+}
+.paran h5{
+    color: peru;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+
+}
+.paran{
+    text-align: center;
+}
+.main{
+    padding-top: 68px;
+}
+.Third{
+    padding-top: 89px;
+}
+.pr h6{
+    color:#fff;
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+
+}
+.pr p{
+    font-weight: 600;
+    font-size: 30px;
+    color:peru;
+    font-family: "Roboto", sans-serif;
+
+}
+.Forms{
+    background-image: url(../../img/MenuImage/footer-background-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom:46px;
+    padding-top: 35px;
+}
+.many span{
+    color:#fff;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+
+}
+.many p{
+    color:#fff;
+    font-size: 20px;
+
+}
+.many{
+    text-align: center;
+}
+.number{
+    text-align: center;
+   
+}
+.number input{
+    padding:9px 34px;
+    border:none;
+  
+}
+.number button{
+    padding:9px 34px;
+    color:white;
+    background: peru;
+    border:none;
+    cursor:pointer;
+
+}
+.sub{
+    padding-left: 22px;
+    padding-top: 19px;
+    background-image: url(../../img/MenuImage/footer-background-2.jpg);
+    background-size:cover;
+    object-fit: cover;
+    padding-top: 33px;
+
+}
+
+.imgM {
+    color:white;
+    font-size: 20px;
+    display: flex;
+}
+.imgM img{
+    width:113px;
+}
+.imgM p{
+    padding-top: 24px;
+}
+.icon{
+    color:white;
+}
+.Contacts p{
+    color:white;
+}
+.times{
+    color:white;
+}
+.Navbar{
+    color:white;
+}
+/* .Navbar li {
+    list-style: none;
+    text-decoration: none;
+
+} */
+.sub{
+    padding-top: 70px;
+}
+.app{
+    padding-top: 33px;
+}
+/* a:after{
+    content:"";
+    position: absolute;
+    background-color:;
+    height:2px;
+    width:0;
+    left:0;
+    bottom:-10px;
+} */
+a:hover:after{
+    width:100%;
+    
+}
+/* .icon {
+    padding-top: 80px;
+}
+.icon i{
+   color:#fff;
+} */
+.imgl img{
+    width:100px;
+}
+.imgl{
+    display: flex;
+    padding-top: 19px;
+    font-size: 20px;
+}
+.imgl p{
+    color:#fff;
+}
+.Contacts p{
+    color:#fff;
+}
+.label{
+    color:white;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+
+}
+.cd{
+    padding-top: 33px;
+}
+.cd p {
+    color:#fff;
+}
+.times p{
+    font-size: 20px;
+    font-weight: 300;
+    color:#fff;
+}
+/* .Nav ul{
+   color:white;
+   font-size: 20px;
+   list-style: none;
+} */
+.main-class{
+    background-image: url(../../img/MenuImage/footer-background-2.jpg);
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+}
+/* ul li a{
+    color:#fff;
+    text-decoration: none;
+}  */
+  /* a:after{
+    content:"";
+    position: absolute;
+    background-color:;
+    height:2px;
+    width:0;
+    left:0;
+    bottom:-10px;
+} */
+.img{
+    display:flex;
+}
+.img img{
+    width:100px;
+}
+/* .Nav {
+    text-decoration: none;
+    list-style: none;
+} */
+.icon{
+    padding-top: 50px;
+    padding-left:40px;
+    color:white;
+    gap:30px;
+}
+.icon i{
+    font-size: 19px;
+    border-radius:5%;
+}
+/* .icon i{
+    gap:20px;
+} */
+
+.plp{
+    text-align:center;
+    color:white;
+    position: relative;
+    top:-174px;
+    
+}
+.Container-r a{
+    position: relative;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    color:white;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    padding: 0 10px;
+   }
+   .navbar-nav{
+    gap:25px;
+   }
+   /* .Nav a{
+    position: relative;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    color:#a0a0a0;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    padding: 0 10px;
+
+   } */
+   .Nav li a{
+    color:#fff;
+   }
+   .i-contain{
+    gap:30px;
+   }
+  .navbar   ul li a{
+    position: relative;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    color:#a0a0a0;
+    font-size: 18px;
+    letter-spacing: 0.5;
+
+
+}
+.p{
+    text-align: center;
+}
+.Contact i{
+    margin-right: 10px;
+}
+.Contact p{
+    margin-top:0px;
+}
+.navbar li {
+    color:white;
+}
+.btnn button{
+    color:black;
+    background: peru;
+    border:none;
+    padding: 8px 20px;
+
+
+}
+.col h2{
+    color: peru;
+}
+.col h3{
+    color: peru;
+}
+.Nav li a{
+    list-style: none;
+    text-decoration: none;
+}
+.main-class{
+    padding-top: 30px;
+}
+.Menu p{
+    color:#fff;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+.Name {
+    text-align: center;
+    color:#fff;
+}
+.col {
+    padding-top: 32px;
+}
+.col h4{
+    color:peru;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+
+}
+.col h5{
+    color:peru;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif; 
+}
+.menus p{
+    color:#fff;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif; 
+
+}
+.nav-link:hover {
+    color: #fff;
+  }
+  
+  .nav-link::after {
+    content: ''; 
+    background:green; 
+    position: absolute;
+    height: 3px;
+    width:0;
+    left:0;
+    bottom: -10px;
+   transition: 0.3s;
+  }
+  

@@ -1,0 +1,12 @@
+.Cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 700px;
+    margin: auto;
+}
+.container{
+    background: green;
+    
+}
